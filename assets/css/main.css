@@ -2045,6 +2045,10 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+		.big-icons .icon {
+			font-size: 2em; /* adjust the font-size as needed */
+		  }
+		  
 
 /* Image */
 

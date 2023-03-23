@@ -1788,6 +1788,7 @@ input, select, textarea {
 		color: #4acaa8;
 		font-size: 3.5em;
 	}
+	
 
 		header.major h2 + p {
 			color: #777;
@@ -2048,7 +2049,6 @@ input, select, textarea {
 		.big-icons .icon {
 			font-size: 2em; /* adjust the font-size as needed */
 		  }
-		  
 
 /* Image */
 

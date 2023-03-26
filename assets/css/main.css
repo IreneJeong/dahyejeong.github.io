@@ -2803,7 +2803,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #e4cbf4; /***#5ccfb1;***/
+					border-top: solid 2px #ae8caac0; /***#5ccfb1;***/
 					display: block;
 					padding: 0;
 				}
